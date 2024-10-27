@@ -1,0 +1,7 @@
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\bin\Debug\studentScores.exe.config
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\bin\Debug\studentScores.exe
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\bin\Debug\studentScores.pdb
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\obj\Debug\studentScores.csproj.AssemblyReference.cache
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\obj\Debug\studentScores.csproj.CoreCompileInputs.cache
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\obj\Debug\studentScores.exe
+C:\Users\dndls\OneDrive\바탕 화면\project-2024\studentScores\obj\Debug\studentScores.pdb
