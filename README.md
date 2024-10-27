@@ -1,2 +1,2 @@
 # small-Projects
-This is about c# coding.
+This repository is about my small project to improve my skills.
