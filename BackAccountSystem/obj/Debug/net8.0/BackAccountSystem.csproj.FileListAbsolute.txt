@@ -1,0 +1,14 @@
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/bin/Debug/net8.0/BackAccountSystem
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/bin/Debug/net8.0/BackAccountSystem.deps.json
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/bin/Debug/net8.0/BackAccountSystem.runtimeconfig.json
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/bin/Debug/net8.0/BackAccountSystem.dll
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/bin/Debug/net8.0/BackAccountSystem.pdb
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.AssemblyInfoInputs.cache
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.AssemblyInfo.cs
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.csproj.CoreCompileInputs.cache
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.dll
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/refint/BackAccountSystem.dll
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.pdb
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/BackAccountSystem.genruntimeconfig.cache
+/Users/inchangwoo/Desktop/practice_Dev/C#/BackAccountSystem/obj/Debug/net8.0/ref/BackAccountSystem.dll
