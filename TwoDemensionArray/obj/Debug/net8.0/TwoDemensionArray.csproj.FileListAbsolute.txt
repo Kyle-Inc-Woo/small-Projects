@@ -1,0 +1,14 @@
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/bin/Debug/net8.0/TwoDemensionArray
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/bin/Debug/net8.0/TwoDemensionArray.deps.json
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/bin/Debug/net8.0/TwoDemensionArray.runtimeconfig.json
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/bin/Debug/net8.0/TwoDemensionArray.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/bin/Debug/net8.0/TwoDemensionArray.pdb
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.AssemblyInfoInputs.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.AssemblyInfo.cs
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.csproj.CoreCompileInputs.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/refint/TwoDemensionArray.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.pdb
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/TwoDemensionArray.genruntimeconfig.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/TwoDemensionArray/obj/Debug/net8.0/ref/TwoDemensionArray.dll
