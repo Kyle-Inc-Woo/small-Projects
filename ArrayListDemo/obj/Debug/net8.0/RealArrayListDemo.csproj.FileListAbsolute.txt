@@ -1,0 +1,14 @@
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/bin/Debug/net8.0/RealArrayListDemo
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/bin/Debug/net8.0/RealArrayListDemo.deps.json
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/bin/Debug/net8.0/RealArrayListDemo.runtimeconfig.json
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/bin/Debug/net8.0/RealArrayListDemo.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/bin/Debug/net8.0/RealArrayListDemo.pdb
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.AssemblyInfoInputs.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.AssemblyInfo.cs
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.csproj.CoreCompileInputs.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/refint/RealArrayListDemo.dll
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.pdb
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/RealArrayListDemo.genruntimeconfig.cache
+/Users/inchangwoo/Desktop/Fall_2024/CSIS 1175/Week8/RealArrayListDemo/obj/Debug/net8.0/ref/RealArrayListDemo.dll
